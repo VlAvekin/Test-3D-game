@@ -1,0 +1,7 @@
+alvoksel-input 1
+
+[map Map]
+action = Action vector2
+bind = composite W S A D
+action = Action2 button
+bind = key Space

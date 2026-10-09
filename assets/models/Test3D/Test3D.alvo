@@ -1,0 +1,19 @@
+alvoksel-order 1
+
+[frames]
+
+[anims]
+TestAnimation
+Walking
+Анімація 1
+Анімація 2
+
+[palettes]
+palette
+palette_02
+palette_03
+
+[palette]
+palette
+
+[frame_views]

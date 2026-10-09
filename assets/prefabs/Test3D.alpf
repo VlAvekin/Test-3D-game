@@ -1,0 +1,6 @@
+alvoksel-prefab 1
+name = Test3D
+model = assets/models/Test3D/Test3D.alv
+palette = palette
+script = scripts/gameplay/person.rhai
+rot = 0 0 0 1
